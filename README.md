@@ -15,6 +15,21 @@ The adventure is driven by:
 
 ---
 
+## Platform Compatibility
+
+This project was developed **exclusively for Windows**.
+
+It uses Windows-specific libraries such as:
+- `<windows.h>`
+- `<conio.h>`
+- `<mmsystem.h>`
+
+Because of this, the project **will not compile or run on Linux or macOS** without significant modifications.
+
+No external libraries are required. All dependencies are part of the standard C++ library or native Windows APIs.
+
+---
+
 ## Core Features
 
 - Fully text-based RPG played in the terminal  
