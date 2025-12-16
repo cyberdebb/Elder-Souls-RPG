@@ -66,14 +66,15 @@ No external libraries are required. All dependencies are part of the standard C+
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/cyberdebb/Elder-Souls-RPG.git
-   ```
+    ```bash
+    git clone https://github.com/cyberdebb/Elder-Souls-RPG.git
+    ```
 2. Run the ```ElderSoulsRPG.exe``` executable file **OR** Compile the project:
-  ```bash
-  cd src
-  g++ main.cpp -o ElderSoulsRPG
-  ```
+    ```bash
+    cd src
+    g++ main.cpp -o ElderSoulsRPG
+    ```
 3. Run the game:
-  ```bash
-  ./ElderSoulsRPG
+    ```bash
+    ./ElderSoulsRPG
+    ```
